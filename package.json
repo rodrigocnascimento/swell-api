@@ -1,0 +1,24 @@
+{
+  "name": "swell-api",
+  "version": "1.0.0",
+  "description": "API de acompanhamento de ondas para surfistas, usando TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigocnascimento/swell-api.git"
+  },
+  "keywords": [
+    "nodejs",
+    "tyepscript",
+    "api"
+  ],
+  "author": "Rodrigo Nascimento",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigocnascimento/swell-api/issues"
+  },
+  "homepage": "https://github.com/rodrigocnascimento/swell-api#readme"
+}
